@@ -124,13 +124,15 @@ Purpose:
 Select the best-fitting copula model
 
 Quantify improvement over Gaussian dependence
+<img width="1037" height="773" alt="download (5)" src="https://github.com/user-attachments/assets/05db58a5-3b2e-4b75-b56e-5dc15<img width="909" height="876" alt="download (4)" src="https://github.com/user-attachments/assets/2bc00feb-8498-4c3e-b835-f5d36198d974" />
+e45fb88" />
 
-📌 Generated in: logliklihood.ipynb
+📌 Generated in: loglikelihood.ipynb
 Key Results
 
 Copula-based VaR captures tail risk more effectively than Gaussian VaR
 
-Student-t copula often provides superior fit due to tail dependence
+Student-t copula often provides a superior fit due to tail dependence
 
 VaR estimates differ significantly from classical parametric models
 How to Run the Project
@@ -145,10 +147,10 @@ pip install numpy pandas scipy matplotlib statsmodels copulas
 jupyter notebook
 
 
-➡️ Execute notebooks in order following the workflow.
+➡️ Execute notebooks in order, following the workflow.
 Notes
 
-Results may vary depending on data period and asset selection
+Results may vary depending onthe  data period and asset selection
 
 Ensure all notebooks are run sequentially for consistency
 
