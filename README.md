@@ -12,4 +12,4 @@ The following figures illustrates this:
 After using Monte Carlo simulation and using the log likelihood function, I found the best copula is the T-Copula.
 <img width="1037" height="773" alt="download (5)" src="https://github.com/user-attachments/assets/44a23cea-204c-4f43-af05-cad49acd30b9" />
 Moreover, I have used Q-Q plot for the returns of the portfolio and the returns of the T-copula and Gaussian samples. <img width="909" height="876" alt="download (4)" src="https://github.com/user-attachments/assets/f3071f4a-ce61-40f9-ac56-58b6383af90f" />
-Finally, I estimate the Value at Risk of a portfolio using Monte Carlo Simulation in 97% confidence level.
+Finally, I estimated the Value at Risk of a portfolio using Monte Carlo Simulation in 97% confidence level.
