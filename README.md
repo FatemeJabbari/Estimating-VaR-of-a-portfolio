@@ -88,6 +88,9 @@ Detect skewness and heavy tails
 Motivate the use of flexible marginal distributions
 
 📌 Generated in: DailyLogReturns.ipynb, FittingDist.ipynb
+<img width="368" height="248" alt="download" src="https://github.com/user-attachments/assets/7a654994-afba-4696-9e08-90b0fd79d8ad" /><img width="368" height="248" alt="download (1)" src="https://github.com/user-attachments/assets/39398a83-bade-4664-9761-466a2829b3ff" /><img width="375" height="248" alt="download (2)" src="https://github.com/user-attachments/assets/558a41fa-b2bb-4d7e-a092-f2eab96b1198" />
+
+
 
 2️⃣ Marginal Distribution Fit (Q–Q Plots)
 
