@@ -124,8 +124,10 @@ Purpose:
 Select the best-fitting copula model
 
 Quantify improvement over Gaussian dependence
-<img width="1037" height="773" alt="download (5)" src="https://github.com/user-attachments/assets/05db58a5-3b2e-4b75-b56e-5dc15<img width="909" height="876" alt="download (4)" src="https://github.com/user-attachments/assets/2bc00feb-8498-4c3e-b835-f5d36198d974" />
-e45fb88" />
+
+<img width="1037" height="773" alt="download (5)" src="https://github.com/user-attachments/assets/3a65ff77-aa60-4a54-a951-6e985e436fef" />
+<img width="909" height="876" alt="download (4)" src="https://github.com/user-attachments/assets/535a54c6-7fb0-498a-ab95-f31dea57c68e" />
+
 
 📌 Generated in: loglikelihood.ipynb
 Key Results
